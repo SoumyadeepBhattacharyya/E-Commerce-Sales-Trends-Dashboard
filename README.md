@@ -8,35 +8,34 @@ The dataset used contains attributes such as User_ID, Gender, Age, State, Zone, 
 
 Objectives of the Project:
 
-To identify the most profitable products and categories.
-To examine customer demographics (age, gender, marital status, occupation) affecting sales.
-To observe regional trends in revenue generation (by state and zone).
-To analyze how discounts and payment modes impact overall sales.
-To evaluate customer satisfaction through product ratings.
-To create a dynamic dashboard using Excel to visualize insights effectively.
+            1. To identify the most profitable products and categories.
+            2. To examine customer demographics (age, gender, marital status, occupation) affecting sales.
+            3. To observe regional trends in revenue generation (by state and zone).
+            4. To analyze how discounts and payment modes impact overall sales.
+            5. To evaluate customer satisfaction through product ratings.
+            6. To create a dynamic dashboard using Excel to visualize insights effectively.
 
 Tools & Techniques Used:
 
-Microsoft Excel
-Data Cleaning & Preprocessing
-Pivot Tables for summarization
-Slicers for interactive filtering
-Sparklines for quick visual trends
-Multiple chart types (Bar, Column, Pie, Scatter, Donut, Line) for visualization
+            1. Microsoft Excel
+            2. Data Cleaning & Preprocessing
+            3. Pivot Tables for summarization
+            4. Slicers for interactive filtering
+            5. Sparklines for quick visual trends
+            6. Multiple chart types (Bar, Column, Pie, Scatter, Donut, Line) for visualization
 
 Key Features of the Dashboard:
 
-Revenue by Gender: Identifies which gender contributes more to total sales.
-Revenue by Zone (Pie Chart): Displays regional performance.
-Top 10 Products by Revenue (Bar Chart): Highlights top-performing products.
-Average Rating by Product Category (Scatter Plot): Shows customer satisfaction.
-Category vs Final Price (Column Chart): Reveals product pricing impact.
-Revenue by State (Donut Chart): Visualizes state-wise contribution.
-Interactive Slicers: Filter by Zone, Gender, Age Group, and Product Category to view dynamic results.
+            1. Revenue by Gender: Identifies which gender contributes more to total sales.
+            2. Revenue by Zone (Pie Chart): Displays regional performance.
+            3. Best Products by Revenue (Bar Chart): Highlights top-performing products.
+            4. Average Rating by Product Category (Scatter Plot): Shows customer satisfaction.
+            5. Category vs Final Price (Column Chart): Reveals product pricing impact.
+            6. Revenue by State (Donut Chart): Visualizes state-wise contribution.
+            7. Interactive Slicers: Filter by Zone, Gender, Age Group, and Product Category to view dynamic results.
 
 Outcome:
 
 The analysis provides meaningful insights into consumer behavior and product performance, helping businesses make data-driven decisions such as optimizing inventory, improving pricing strategies, and targeting high-performing customer segments.
 This project demonstrates the ability to apply data analytics and Excel visualization skills to solve real-world business problems and enhance strategic decision-making in e-commerce.
-
 Filtering & Conditional Formatting to enhance clarity and usability.
